@@ -131,11 +131,9 @@ prediction by our model is shown below :
 <span class="figcaption_hack">Summary of the above Resume</span>
 
 If you have any queries or suggestions, I would love to hear about it. Please
-write to me at abhishek.narayanan@dataturks.com.
+write to me at contact@dataturks.com.
 
-The code for the above project can be found
-[here](https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes) in the
-github repository.
+
 
 *Shameless plugin: We are a data annotation platform to make it super easy for
 you to build ML datasets. Just upload data, invite your team and build datasets
@@ -145,9 +143,6 @@ super quick. *[Check us out!](https://dataturks.com/index.php)
 * [NLP](https://medium.com/tag/nlp?source=post)
 * [Named Entity
 Recognition](https://medium.com/tag/named-entity-recognition?source=post)
-
-From a quick cheer to a standing ovation, clap to show how much you enjoyed this
-story.
 
 ### [DataTurks: Data Annotations Made Super Easy](https://medium.com/@dataturks)
 
